@@ -1,3 +1,33 @@
+# Went through Ania Kubows Typescript Course in Scrimba learning:
+
+The benefits of TypeScript
+
+Types, Typeof, String types, Boolean types, Object types, Array types, Tuple types, Enum types, Any types, Union types, Literal types, Function Types, Void Types, Interfaces, Modules Classes, Compiling
+
+# Why this course rocks
+Do you have a handle on HTML, CSS and JavaScript, and are you wondering where to go next? Do you notice plenty of job ads mentioning TypeScript and wonder what they're about? Do you want to learn a programming language that is easy to read and debug?
+
+If you answer YES to any of the above questions, then this is the course for you.
+
+What will this course do for me? Learn TypeScript breaks down everything you need to get started using TypeScript into approachable chunks, to be consumed at your own pace and convenience. Throughout four sections, we'll cover primitive data types, structural data types, file organization, modules, classes, compiling, and more!
+
+Even better, you'll be in build mode from the very beginning. Instead of long, theoretical lessons, you are launched straight into solving challenges and building a real-world style app.
+
+This course is learning by doing, all the way! This practical approach ensures that your new knowledge sticks with you, and gives you the muscle memory you need to become an effective TypeScript developer.
+
+What will I build? By the end of this course, you'll have built a fun, real-world-style couchsurfing site with loads of cool features like an expandable review section, a personalized welcome message, and a weather display in the footer.
+
+Best of all, there's plenty of scope to expand or customize your project, so your TypeScript learning journey doesn't have to end when the course does!
+
+Is there any support during the course? While we can't offer one-to-one support (yet!), our friendly Discord community is waiting to welcome your questions, share ideas with you, or just chat on a coffee break. We even have a dedicated TypeScript help channel!
+
+## Link to the course (https://scrimba.com/learn/typescript.)
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
